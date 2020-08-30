@@ -8,8 +8,8 @@
 - ⚡ 网抑云用户/来打厨
 
 **我的个人项目**
-- [我的个人博客](https://github.com/yuchiXiong/yuchi.xiong.top.react)：基于React开发的个人博客系统
-- [ZIO](https://github.com/yuchiXiong/zio)：基于React开发的时间管理工具
+- [我的个人博客：开发中](https://github.com/yuchiXiong/yuchi.xiong.top.react)：基于React开发的个人博客系统
+- ~~[ZIO：规划中](https://github.com/yuchiXiong/zio)：基于React开发的时间管理工具~~
 
 
 
