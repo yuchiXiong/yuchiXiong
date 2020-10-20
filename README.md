@@ -10,7 +10,7 @@
 **我的个人项目**
 - [我的博客：持续迭代中](https://github.com/yuchiXiong/yuchi.xiong.top.react)：基于React开发的博客系统.
 - [博客服务器：持续迭代中](https://github.com/yuchiXiong/yuchi.xiong.top.rails)：基于Rails开发的博客系统服务器.
-- [灯光编辑器：开发中](https://github.com/yuchiXiong/light-tools)：基于React开发的灯光编辑工具.
+<!-- - [灯光编辑器：开发中](https://github.com/yuchiXiong/light-tools)：基于React开发的灯光编辑工具. -->
 <!-- - ~~[ZIO：规划中](https://github.com/yuchiXiong/zio)：基于React开发的时间管理工具~~ -->
 
 <!-- **我的工作经历** -->
