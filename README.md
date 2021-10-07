@@ -1,29 +1,43 @@
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=yuchiXiong&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuchiXiong&hide_title=false&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+## Hi there yuchi 👋
 
-**鱼翅今天摸鱼了吗**
+- 😄 JavaScript/Ruby 开发者，React/Rails 菜鸡
+- 🤔 除了加班对啥都敢兴趣
+- ⚡ 互联网垃圾的生产工
+- 👯 乐于分享的逼逼机
+- 💬 [邮箱](mailto:yuchi.xiong@foxmail.com)
 
-> 十八线Coder, API Caller. 互联网世界朴实的搬瓦工, 希望有一天能盖起自己的摩天大楼。
+![github stats](https://github-readme-stats.vercel.app/api?username=yuchiXiong&count_private=true&show_icons=true&theme=radical)
 
-- 🌱 2019年6月毕业于耶极大学。
-- 🔭 2019年2月进入公司实习。
-- 😄 使用 Ruby/JavaScript 语言，React/Rails 菜鸟开发者。
-- ⚡ 网抑云用户/来打厨。
+## my project or demo
 
-**我的个人项目**
-- [Burogu：持续迭代中](https://github.com/yuchiXiong/burogu) 基于Rails + React开发的博客系统，[在线预览](https://burogu.bubuyu.top) .
-- [react-rails-ssr](https://github.com/yuchiXiong/react-rails-ssr) 基于rails + react-rails的同构应用脚手架.
-<!-- - [我的博客：持续迭代中](https://github.com/yuchiXiong/yuchi.xiong.top.react)：基于React开发的博客系统.-->
-<!-- - [灯光编辑器：开发中](https://github.com/yuchiXiong/light-tools)：基于React开发的灯光编辑工具. -->
-<!-- - ~~[ZIO：规划中](https://github.com/yuchiXiong/zio)：基于React开发的时间管理工具~~ -->
+<table>
+  <th colspan="3" align="left">project</th>
+  <tr>
+    <td><a href="https://github.com/yuchiXiong/yuchi.xiong.blogs">yuchi.xiong.blogs</a></td>
+    <td>我的个人博客</td>
+    <td align="center"> - </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/yuchiXiong/pilipala">Pilipala</a></td>
+    <td>[开发中] 在线写作平台</td>
+    <td align="center">Rails/TailwindCSS/React/AlpineJS</td>
+  </tr>
 
-<!-- **我的工作经历** -->
-<!-- - [电子音乐板](https://musicpad.mvtrail.com) -->
+  <th colspan="3" align="left">demo or other</th>
+  <tr>
+    <td><a href="https://github.com/yuchiXiong/activeRecordByProxy">activeRecordByProxy</a></td>
+    <td>基于 Proxy 的 active_record 动态查找方法实现</td>
+    <td align="center">JavaScript</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/yuchiXiong/expandableContainer">expandableContainer</a></td>
+    <td>可动态伸缩展开的容器 React 组件</td>
+    <td align="center">TypeScript</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/yuchiXiong/react-rails-ssr">react-rails-ssr</a></td>
+    <td>可快速在 Rails 上配置 React 服务端渲染的工具</td>
+    <td align="center">Ruby</td>
+  </tr>
 
-**如何联系我**
-
-邮箱：yuchi.xiong@foxmail.com
-
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-
+</table>
