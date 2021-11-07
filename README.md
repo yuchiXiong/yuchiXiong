@@ -3,7 +3,7 @@
 - 😄 JavaScript/Ruby 开发者，React/Rails 菜鸡
 - 🤔 除了加班对啥都敢兴趣
 - ⚡ 互联网垃圾的生产工
-- 👯 乐于分享的逼逼机
+- 👯 逼逼机
 - 💬 [邮箱](mailto:yuchi.xiong@foxmail.com)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=yuchiXiong&count_private=true&show_icons=true&theme=radical)
