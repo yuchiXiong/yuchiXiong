@@ -6,7 +6,13 @@
 - 👯 逼逼机
 - 💬 [邮箱](mailto:yuchi.xiong@foxmail.com)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=yuchiXiong&count_private=true&show_icons=true&theme=radical)
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yuchiXiong&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=yuchiXiong&show_icons=true&count_private=true&include_all_commits=true)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchiXiong&layout=compact&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 
 ## my project or demo
 
