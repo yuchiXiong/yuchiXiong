@@ -12,9 +12,6 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=yuchiXiong&show_icons=true&count_private=true&include_all_commits=true)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchiXiong&layout=compact&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
- -->
-
 ## my project or demo
 
 <table>
