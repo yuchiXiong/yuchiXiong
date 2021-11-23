@@ -8,7 +8,10 @@
 - 💬 [邮箱](mailto:yuchi.xiong@foxmail.com)
 
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yuchiXiong&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+**本周代码状态**
+
+![yuchiXiong' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuchiXiong&hide_title=true)
+
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=yuchiXiong&show_icons=true&count_private=true&include_all_commits=true)
 
