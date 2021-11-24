@@ -8,9 +8,7 @@
 - 💬 [邮箱](mailto:yuchi.xiong@foxmail.com)
 
 
-**本周代码状态**
-
-![yuchiXiong' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuchiXiong&hide_title=true)
+![yuchiXiong' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuchiXiong&hide_title=true&langs_count=5)
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=yuchiXiong&show_icons=true&count_private=true&include_all_commits=true)
