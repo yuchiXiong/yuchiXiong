@@ -12,7 +12,7 @@
     My code statistics.
   </summary>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yuchiXiong&hide_title=true&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yuchiXiong&hide_title=true&layout=compact&langs_count=10" />
     
   <div>
 </details>
