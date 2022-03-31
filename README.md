@@ -2,7 +2,7 @@
 <img src="https://wakatime.com/badge/user/d7b7c2c9-3bfe-47fc-91a4-129be029d5ea.svg" />
 
 - 😄 前端菜鸡，偶尔也写 Ruby
-- 🤔 除了加班对啥都敢兴趣
+- 🤔 除了加班对啥都感兴趣
 - ⚡ 互联网垃圾的生产工
 - 👯 逼逼机
 - 💬 [联系我](mailto:yuchi.xiong@foxmail.com)
