@@ -21,6 +21,6 @@
 
 <a href="https://github.com/yuchiXiong">
   <img height="225" src="https://github-readme-stats.vercel.app/api?username=yuchiXiong&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuchiXiong"/>
+  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuchiXiong&hide=python,css,ejs,stylus,racket,scss,slim,html,c,less,shell"/>
 </a>
 
