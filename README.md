@@ -1,7 +1,7 @@
 ## Hi there yuchi 👋 
 <img src="https://wakatime.com/badge/user/d7b7c2c9-3bfe-47fc-91a4-129be029d5ea.svg" />
 
-- 😄 一个切图的，~~偶尔也写点别的~~
+- 😄 一个切图的
 - 🤔 除了加班对啥都感兴趣
 - ⚡ 互联网垃圾的制造者 | 当代思而不学则殆本殆
 - 👯 逼逼机
