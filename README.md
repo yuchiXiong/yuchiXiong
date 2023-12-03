@@ -1,19 +1,16 @@
 ## Hi there yuchi 👋 
-<img src="https://wakatime.com/badge/user/d7b7c2c9-3bfe-47fc-91a4-129be029d5ea.svg" />
 
-- 😄 一个切图的
-- 🤔 除了加班对啥都感兴趣
-- ⚡ 互联网垃圾的制造者 | 当代思而不学则殆本殆
-- 👯 赛博逼逼机
-- 💬 [联系我](mailto:yuchi.xiong@foxmail.com)
+- 😄 落魄前端在线炒粉
+- 🏫 BiliBili 大学在读
+- 🤔 除了工作对啥都感兴趣
+- 👯 你的赛博逼逼机
 
 <details>
   <summary>
-    My code statistics.
+    点击查看我的 Wakatime 代码时长统计
   </summary>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yuchiXiong&hide_title=true&layout=compact&langs_count=10" />
-    
   <div>
 </details>
     
