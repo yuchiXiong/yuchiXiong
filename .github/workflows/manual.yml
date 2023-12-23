@@ -1,0 +1,30 @@
+name: build 
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 */1 * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v4.0.1
+      - name: Install Node.js dependencies
+        run: |
+          npm install
+      - name: Generate new markdown file
+        run: |-
+          node auto_fetch.js
+          cat README.md
+      - name: Commit and push if changed
+        run: |-
+          git diff
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add -A
+          git commit -m "ci: update profile (automatically)" || exit 0
+          git push
