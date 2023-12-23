@@ -1,0 +1,24 @@
+{
+  "name": "yuchixiong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "auto_update.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuchiXiong/yuchiXiong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuchiXiong/yuchiXiong/issues"
+  },
+  "homepage": "https://github.com/yuchiXiong/yuchiXiong#readme",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "dayjs": "^1.11.10",
+    "rss-parser": "^3.13.0"
+  }
+}

@@ -1,4 +1,4 @@
-name: build 
+name: build
 
 on:
   push:
@@ -18,7 +18,7 @@ jobs:
           npm install
       - name: Generate new markdown file
         run: |-
-          node auto_fetch.js
+          node auto_update.js
           cat README.md
       - name: Commit and push if changed
         run: |-
