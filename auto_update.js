@@ -69,15 +69,13 @@ const doubanSection = async () => {
   }));
 
   const today = new Date();
-  const ONE_YEAR = 12 * 30 * 24 * 60 * 60 * 1000;
-  // const ONE_HALF_YEAR = 6 * 30 * 24 * 60 * 60 * 1000;
+  // const ONE_YEAR = 12 * 30 * 24 * 60 * 60 * 1000;
+  const ONE_HALF_YEAR = 6 * 30 * 24 * 60 * 60 * 1000;
 
   const lastMonthBlogs = interests.filter(interest => {
     const pubDate = new Date(interest.pubDate);
 
-    return (today.getTime() - ONE_YEAR) <= pubDate.getTime()
-  }).filter(interest => {
-    return interest.title?.includes("最近在读") || interest.title?.includes("最近读过")
+    return (today.getTime() - ONE_HALF_YEAR) <= pubDate.getTime()
   });
 
 
@@ -92,6 +90,7 @@ const doubanSection = async () => {
 (async () => {
   const blog = await blogSection();
   const douban = await doubanSection();
+
 
   const content = [
     blog,
