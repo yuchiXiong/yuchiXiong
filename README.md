@@ -30,3 +30,9 @@
 #### Recent Digests
 
 [最近在读吴军数学通识讲义](https://book.douban.com/subject/35426737/) - 2024-01-06
+
+[看过两只狗的生活意见](https://www.douban.com/location/drama/7058113/) - 2024-01-01
+
+[看过年会不能停！](http://movie.douban.com/subject/35725869/) - 2023-12-29
+
+[看过蜘蛛侠：平行宇宙](http://movie.douban.com/subject/26374197/) - 2023-12-29
