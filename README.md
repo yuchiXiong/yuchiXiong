@@ -29,6 +29,8 @@
 
 #### Recent Digests
 
+[在看葬送的芙莉莲](http://movie.douban.com/subject/36093351/) - 2024-01-06
+
 [最近在读吴军数学通识讲义](https://book.douban.com/subject/35426737/) - 2024-01-06
 
 [看过两只狗的生活意见](https://www.douban.com/location/drama/7058113/) - 2024-01-01
