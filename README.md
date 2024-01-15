@@ -29,6 +29,8 @@
 
 #### Recent Digests
 
+[在看布莱泽奥特曼](http://movie.douban.com/subject/36200411/) - 2024-01-14
+
 [在看葬送的芙莉莲](http://movie.douban.com/subject/36093351/) - 2024-01-06
 
 [最近在读吴军数学通识讲义](https://book.douban.com/subject/35426737/) - 2024-01-06
