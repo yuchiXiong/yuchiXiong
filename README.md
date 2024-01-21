@@ -29,7 +29,9 @@
 
 #### Recent Digests
 
-[在看布莱泽奥特曼](http://movie.douban.com/subject/36200411/) - 2024-01-14
+[最近在读献给阿尔吉侬的花束](https://book.douban.com/subject/26362836/) - 2024-01-20
+
+[看过布莱泽奥特曼](http://movie.douban.com/subject/36200411/) - 2024-01-20
 
 [在看葬送的芙莉莲](http://movie.douban.com/subject/36093351/) - 2024-01-06
 
