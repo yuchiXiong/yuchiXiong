@@ -29,7 +29,7 @@
 
 #### Recent Digests
 
-[最近在读献给阿尔吉侬的花束](https://book.douban.com/subject/26362836/) - 2024-01-20
+[读过献给阿尔吉侬的花束](https://book.douban.com/subject/26362836/) - 2024-01-24
 
 [看过布莱泽奥特曼](http://movie.douban.com/subject/36200411/) - 2024-01-20
 
