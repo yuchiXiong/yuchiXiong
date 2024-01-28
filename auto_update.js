@@ -70,12 +70,13 @@ const doubanSection = async () => {
 
   const today = new Date();
   // const ONE_YEAR = 12 * 30 * 24 * 60 * 60 * 1000;
-  const ONE_HALF_YEAR = 6 * 30 * 24 * 60 * 60 * 1000;
+  const ONE_MONTH = 30 * 24 * 60 * 60 * 1000;
+  // const ONE_HALF_YEAR = 6 * 30 * 24 * 60 * 60 * 1000;
 
   const lastMonthBlogs = interests.filter(interest => {
     const pubDate = new Date(interest.pubDate);
 
-    return (today.getTime() - ONE_HALF_YEAR) <= pubDate.getTime()
+    return (today.getTime() - ONE_MONTH) <= pubDate.getTime()
   });
 
 
