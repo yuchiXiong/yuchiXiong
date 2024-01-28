@@ -29,6 +29,8 @@
 
 #### Recent Digests
 
+[读过一个无政府主义者的意外死亡](https://book.douban.com/subject/26649304/) - 2024-01-27
+
 [读过献给阿尔吉侬的花束](https://book.douban.com/subject/26362836/) - 2024-01-24
 
 [看过布莱泽奥特曼](http://movie.douban.com/subject/36200411/) - 2024-01-20
