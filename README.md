@@ -29,4 +29,18 @@
 
 #### Recent Digests
 
+[读过一个无政府主义者的意外死亡](https://book.douban.com/subject/26649304/) - 2024-01-27
+
+[读过献给阿尔吉侬的花束](https://book.douban.com/subject/26362836/) - 2024-01-24
+
+[看过布莱泽奥特曼](http://movie.douban.com/subject/36200411/) - 2024-01-20
+
+[在看葬送的芙莉莲](http://movie.douban.com/subject/36093351/) - 2024-01-06
+
 [最近在读吴军数学通识讲义](https://book.douban.com/subject/35426737/) - 2024-01-06
+
+[看过两只狗的生活意见](https://www.douban.com/location/drama/7058113/) - 2024-01-01
+
+[看过年会不能停！](http://movie.douban.com/subject/35725869/) - 2023-12-29
+
+[看过蜘蛛侠：平行宇宙](http://movie.douban.com/subject/26374197/) - 2023-12-29
