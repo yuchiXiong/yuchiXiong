@@ -29,11 +29,11 @@
 
 #### Recent Digests
 
+[读过一九八四](https://book.douban.com/subject/3815131/) - 2024-02-17
+
 [看过我和我的父辈](http://movie.douban.com/subject/35294995/) - 2024-02-14
 
 [看过妈妈！](http://movie.douban.com/subject/34954093/) - 2024-02-14
-
-[最近在读一九八四](https://book.douban.com/subject/3815131/) - 2024-02-14
 
 [看过八角笼中](http://movie.douban.com/subject/35765480/) - 2024-02-13
 
