@@ -40,5 +40,3 @@
 [读过局外人](https://book.douban.com/subject/24257486/) - 2024-02-08
 
 [读过娱乐至死](https://book.douban.com/subject/26319730/) - 2024-02-03
-
-[读过一个无政府主义者的意外死亡](https://book.douban.com/subject/26649304/) - 2024-01-27
