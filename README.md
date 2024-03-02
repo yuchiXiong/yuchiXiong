@@ -29,7 +29,7 @@
 
 #### Recent Digests
 
-[最近在读失明症漫记](https://book.douban.com/subject/35984787/) - 2024-02-27
+[读过失明症漫记](https://book.douban.com/subject/35984787/) - 2024-03-01
 
 [读过一九八四](https://book.douban.com/subject/3815131/) - 2024-02-17
 
