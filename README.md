@@ -29,6 +29,8 @@
 
 #### Recent Digests
 
+[看过布莱泽奥特曼电影版：大怪兽首都激战](http://movie.douban.com/subject/36658859/) - 2024-03-02
+
 [读过失明症漫记](https://book.douban.com/subject/35984787/) - 2024-03-01
 
 [读过一九八四](https://book.douban.com/subject/3815131/) - 2024-02-17
