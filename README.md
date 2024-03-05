@@ -44,5 +44,3 @@
 [看过八角笼中](http://movie.douban.com/subject/35765480/) - 2024-02-13
 
 [读过局外人](https://book.douban.com/subject/24257486/) - 2024-02-08
-
-[读过娱乐至死](https://book.douban.com/subject/26319730/) - 2024-02-03
