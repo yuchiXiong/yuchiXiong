@@ -42,5 +42,3 @@
 [看过妈妈！](http://movie.douban.com/subject/34954093/) - 2024-02-14
 
 [看过八角笼中](http://movie.douban.com/subject/35765480/) - 2024-02-13
-
-[读过局外人](https://book.douban.com/subject/24257486/) - 2024-02-08
