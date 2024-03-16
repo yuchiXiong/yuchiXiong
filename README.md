@@ -36,7 +36,3 @@
 [读过失明症漫记](https://book.douban.com/subject/35984787/) - 2024-03-01
 
 [读过一九八四](https://book.douban.com/subject/3815131/) - 2024-02-17
-
-[看过我和我的父辈](http://movie.douban.com/subject/35294995/) - 2024-02-14
-
-[看过妈妈！](http://movie.douban.com/subject/34954093/) - 2024-02-14
