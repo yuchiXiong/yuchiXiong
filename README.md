@@ -29,6 +29,8 @@
 
 #### Recent Digests
 
+[最近在读把时间当作朋友（第3版）](https://book.douban.com/subject/25749845/) - 2024-03-16
+
 [想看大象席地而坐](http://movie.douban.com/subject/27172891/) - 2024-03-03
 
 [看过布莱泽奥特曼 大电影 大怪兽东京决战](http://movie.douban.com/subject/36658859/) - 2024-03-02
