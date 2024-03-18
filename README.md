@@ -29,7 +29,9 @@
 
 #### Recent Digests
 
-[最近在读把时间当作朋友（第3版）](https://book.douban.com/subject/25749845/) - 2024-03-16
+[想看机动战士高达SEED FREEDOM](http://movie.douban.com/subject/34822168/) - 2024-03-17
+
+[最近在读把时间当作朋友 (修订版)](https://book.douban.com/subject/36462984/) - 2024-03-17
 
 [想看大象席地而坐](http://movie.douban.com/subject/27172891/) - 2024-03-03
 
