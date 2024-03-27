@@ -31,13 +31,13 @@
 
 #### Recent Digests
 
+[读过把时间当作朋友 (修订版)](https://book.douban.com/subject/36462984/) - 2024-03-26
+
 [看过葬送的芙莉莲](http://movie.douban.com/subject/36093351/) - 2024-03-24
 
 [看过周处除三害](http://movie.douban.com/subject/36151692/) - 2024-03-24
 
 [想看机动战士高达SEED FREEDOM](http://movie.douban.com/subject/34822168/) - 2024-03-17
-
-[最近在读把时间当作朋友 (修订版)](https://book.douban.com/subject/36462984/) - 2024-03-17
 
 [想看大象席地而坐](http://movie.douban.com/subject/27172891/) - 2024-03-03
 
