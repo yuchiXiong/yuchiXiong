@@ -38,5 +38,3 @@
 [看过周处除三害](http://movie.douban.com/subject/36151692/) - 2024-03-24
 
 [想看机动战士高达SEED FREEDOM](http://movie.douban.com/subject/34822168/) - 2024-03-17
-
-[想看大象席地而坐](http://movie.douban.com/subject/27172891/) - 2024-03-03
