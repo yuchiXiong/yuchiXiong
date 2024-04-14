@@ -31,6 +31,8 @@
 
 #### Recent Digests
 
+[读过李光耀观天下](https://book.douban.com/subject/30175059/) - 2024-04-13
+
 [看过你想活出怎样的人生](http://movie.douban.com/subject/26925611/) - 2024-04-06
 
 [读过把时间当作朋友 (修订版)](https://book.douban.com/subject/36462984/) - 2024-03-26
