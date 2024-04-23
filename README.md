@@ -40,5 +40,3 @@
 [读过把时间当作朋友 (修订版)](https://book.douban.com/subject/36462984/) - 2024-03-26
 
 [看过葬送的芙莉莲](http://movie.douban.com/subject/36093351/) - 2024-03-24
-
-[看过周处除三害](http://movie.douban.com/subject/36151692/) - 2024-03-24
