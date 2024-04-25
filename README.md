@@ -31,6 +31,8 @@
 
 #### Recent Digests
 
+[最近在读哲学家们都干了些什么？](https://book.douban.com/subject/35796039/) - 2024-04-24
+
 [读过变形记](https://book.douban.com/subject/35096299/) - 2024-04-14
 
 [读过李光耀观天下](https://book.douban.com/subject/30175059/) - 2024-04-13
