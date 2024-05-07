@@ -40,5 +40,3 @@
 [读过变形记](https://book.douban.com/subject/35096299/) - 2024-04-14
 
 [读过李光耀观天下](https://book.douban.com/subject/30175059/) - 2024-04-13
-
-[看过你想活出怎样的人生](http://movie.douban.com/subject/26925611/) - 2024-04-06
