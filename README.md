@@ -31,6 +31,12 @@
 
 #### Recent Digests
 
+[想看恋爱的犀牛](https://www.douban.com/location/drama/3167344/) - 2024-05-12
+
+[看过一个陌生女人的来信](https://www.douban.com/location/drama/11507832/) - 2024-05-12
+
+[最近在读一地鸡毛](https://book.douban.com/subject/6793573/) - 2024-05-12
+
 [读过被讨厌的勇气](https://book.douban.com/subject/36150914/) - 2024-05-05
 
 [看过哈尔的移动城堡](http://movie.douban.com/subject/1308807/) - 2024-05-02
