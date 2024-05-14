@@ -31,11 +31,11 @@
 
 #### Recent Digests
 
+[读过一地鸡毛](https://book.douban.com/subject/6793573/) - 2024-05-13
+
 [想看恋爱的犀牛](https://www.douban.com/location/drama/3167344/) - 2024-05-12
 
 [看过一个陌生女人的来信](https://www.douban.com/location/drama/11507832/) - 2024-05-12
-
-[最近在读一地鸡毛](https://book.douban.com/subject/6793573/) - 2024-05-12
 
 [读过被讨厌的勇气](https://book.douban.com/subject/36150914/) - 2024-05-05
 
@@ -44,5 +44,3 @@
 [读过哲学家们都干了些什么？](https://book.douban.com/subject/35796039/) - 2024-04-26
 
 [读过变形记](https://book.douban.com/subject/35096299/) - 2024-04-14
-
-[读过李光耀观天下](https://book.douban.com/subject/30175059/) - 2024-04-13
