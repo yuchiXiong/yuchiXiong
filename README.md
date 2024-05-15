@@ -42,5 +42,3 @@
 [看过哈尔的移动城堡](http://movie.douban.com/subject/1308807/) - 2024-05-02
 
 [读过哲学家们都干了些什么？](https://book.douban.com/subject/35796039/) - 2024-04-26
-
-[读过变形记](https://book.douban.com/subject/35096299/) - 2024-04-14
