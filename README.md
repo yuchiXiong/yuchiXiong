@@ -31,13 +31,13 @@
 
 #### Recent Digests
 
+[看过恋爱的犀牛](https://www.douban.com/location/drama/3167344/) - 2024-05-20
+
 [读过悉达多](https://book.douban.com/subject/26980487/) - 2024-05-18
 
 [读过面向对象是怎样工作的（第3版）](https://book.douban.com/subject/36085072/) - 2024-05-18
 
 [读过一地鸡毛](https://book.douban.com/subject/6793573/) - 2024-05-13
-
-[想看恋爱的犀牛](https://www.douban.com/location/drama/3167344/) - 2024-05-12
 
 [看过一个陌生女人的来信](https://www.douban.com/location/drama/11507832/) - 2024-05-12
 
