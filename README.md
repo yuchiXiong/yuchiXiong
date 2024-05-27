@@ -31,6 +31,10 @@
 
 #### Recent Digests
 
+[在看间谍过家家 第二季](http://movie.douban.com/subject/36190888/) - 2024-05-26
+
+[看过间谍过家家 第一季](http://movie.douban.com/subject/35258427/) - 2024-05-26
+
 [看过恋爱的犀牛](https://www.douban.com/location/drama/3167344/) - 2024-05-20
 
 [读过悉达多](https://book.douban.com/subject/26980487/) - 2024-05-18
@@ -44,5 +48,3 @@
 [读过被讨厌的勇气](https://book.douban.com/subject/36150914/) - 2024-05-05
 
 [看过哈尔的移动城堡](http://movie.douban.com/subject/1308807/) - 2024-05-02
-
-[读过哲学家们都干了些什么？](https://book.douban.com/subject/35796039/) - 2024-04-26
