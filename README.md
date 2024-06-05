@@ -44,5 +44,3 @@
 [读过一地鸡毛](https://book.douban.com/subject/6793573/) - 2024-05-13
 
 [看过一个陌生女人的来信](https://www.douban.com/location/drama/11507832/) - 2024-05-12
-
-[读过被讨厌的勇气](https://book.douban.com/subject/36150914/) - 2024-05-05
