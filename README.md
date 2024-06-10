@@ -27,8 +27,6 @@
 
 [吐槽一下：还得是拓展坞懂视频接口](https://xiongyuchi.com/2023/06/20/tu-cao-yi-xia-huan-de-shi-tuo-zhan-wu-dong-shi-pin-jie-kou/) - 2023-06-20
 
-[瞎话 JavaScript 函数式：add(3)(4)一点都不酷](https://xiongyuchi.com/2023/06/15/xia-hua-han-shu-shi-add-3-4-yi-dian-du-bu-ku/) - 2023-06-15
-
 #### Recent Digests
 
 [在看间谍过家家 第二季](http://movie.douban.com/subject/36190888/) - 2024-05-26
