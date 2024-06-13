@@ -38,5 +38,3 @@
 [读过悉达多](https://book.douban.com/subject/26980487/) - 2024-05-18
 
 [读过面向对象是怎样工作的（第3版）](https://book.douban.com/subject/36085072/) - 2024-05-18
-
-[读过一地鸡毛](https://book.douban.com/subject/6793573/) - 2024-05-13
