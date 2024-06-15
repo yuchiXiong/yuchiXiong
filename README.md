@@ -25,8 +25,6 @@
 
 [2024 年，我终于用上 rem 了……](https://xiongyuchi.com/2024/03/19/2024-nian-wo-zhong-yu-yong-shang-rem-liao/) - 2024-03-19
 
-[吐槽一下：还得是拓展坞懂视频接口](https://xiongyuchi.com/2023/06/20/tu-cao-yi-xia-huan-de-shi-tuo-zhan-wu-dong-shi-pin-jie-kou/) - 2023-06-20
-
 #### Recent Digests
 
 [读过梨子小姐与自己相处](https://book.douban.com/subject/36316908/) - 2024-06-14
