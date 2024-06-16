@@ -27,9 +27,9 @@
 
 #### Recent Digests
 
-[读过梨子小姐与自己相处](https://book.douban.com/subject/36316908/) - 2024-06-14
+[看过间谍过家家 第二季](http://movie.douban.com/subject/36190888/) - 2024-06-15
 
-[在看间谍过家家 第二季](http://movie.douban.com/subject/36190888/) - 2024-05-26
+[读过梨子小姐与自己相处](https://book.douban.com/subject/36316908/) - 2024-06-14
 
 [看过间谍过家家 第一季](http://movie.douban.com/subject/35258427/) - 2024-05-26
 
