@@ -34,7 +34,3 @@
 [看过间谍过家家 第一季](http://movie.douban.com/subject/35258427/) - 2024-05-26
 
 [看过恋爱的犀牛](https://www.douban.com/location/drama/3167344/) - 2024-05-20
-
-[读过悉达多](https://book.douban.com/subject/26980487/) - 2024-05-18
-
-[读过面向对象是怎样工作的（第3版）](https://book.douban.com/subject/36085072/) - 2024-05-18
