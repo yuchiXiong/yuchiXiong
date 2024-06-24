@@ -29,6 +29,8 @@
 
 #### Recent Digests
 
+[看过心灵捕手](http://movie.douban.com/subject/1292656/) - 2024-06-23
+
 [看过间谍过家家 第二季](http://movie.douban.com/subject/36190888/) - 2024-06-15
 
 [读过梨子小姐与自己相处](https://book.douban.com/subject/36316908/) - 2024-06-14
