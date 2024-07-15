@@ -29,6 +29,8 @@
 
 #### Recent Digests
 
+[看过福音战士新剧场版：Q](http://movie.douban.com/subject/2567647/) - 2024-07-14
+
 [看过福音战士新剧场版：破](http://movie.douban.com/subject/2567646/) - 2024-07-07
 
 [看过福音战士新剧场版：序](http://movie.douban.com/subject/1968790/) - 2024-06-30
@@ -40,5 +42,3 @@
 [看过心灵捕手](http://movie.douban.com/subject/1292656/) - 2024-06-23
 
 [看过间谍过家家 第二季](http://movie.douban.com/subject/36190888/) - 2024-06-15
-
-[读过梨子小姐与自己相处](https://book.douban.com/subject/36316908/) - 2024-06-14
