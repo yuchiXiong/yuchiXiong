@@ -40,5 +40,3 @@
 [读过结构思考力](https://book.douban.com/subject/26145094/) - 2024-06-27
 
 [看过心灵捕手](http://movie.douban.com/subject/1292656/) - 2024-06-23
-
-[看过间谍过家家 第二季](http://movie.douban.com/subject/36190888/) - 2024-06-15
