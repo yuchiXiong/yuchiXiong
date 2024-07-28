@@ -40,5 +40,3 @@
 [看过福音战士新剧场版：序](http://movie.douban.com/subject/1968790/) - 2024-06-30
 
 [看过飞驰人生2](http://movie.douban.com/subject/36369452/) - 2024-06-29
-
-[读过结构思考力](https://book.douban.com/subject/26145094/) - 2024-06-27
