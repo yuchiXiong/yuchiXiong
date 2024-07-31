@@ -36,5 +36,3 @@
 [看过福音战士新剧场版：Q](http://movie.douban.com/subject/2567647/) - 2024-07-14
 
 [看过福音战士新剧场版：破](http://movie.douban.com/subject/2567646/) - 2024-07-07
-
-[看过福音战士新剧场版：序](http://movie.douban.com/subject/1968790/) - 2024-06-30
