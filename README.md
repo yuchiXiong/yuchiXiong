@@ -29,6 +29,8 @@
 
 #### Recent Digests
 
+[读过自卑与超越](https://book.douban.com/subject/27664092/) - 2024-08-01
+
 [看过青春期猪头少年不做怀梦少女的梦](http://movie.douban.com/subject/30329902/) - 2024-07-21
 
 [看过你的名字。](http://movie.douban.com/subject/26683290/) - 2024-07-21
