@@ -38,5 +38,3 @@
 [看过你的名字。](http://movie.douban.com/subject/26683290/) - 2024-07-21
 
 [看过福音战士新剧场版：Q](http://movie.douban.com/subject/2567647/) - 2024-07-14
-
-[看过福音战士新剧场版：破](http://movie.douban.com/subject/2567646/) - 2024-07-07
