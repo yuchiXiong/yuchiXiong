@@ -29,6 +29,10 @@
 
 #### Recent Digests
 
+[看过红辣椒](http://movie.douban.com/subject/1865703/) - 2024-08-11
+
+[读过控糖革命](https://book.douban.com/subject/36707112/) - 2024-08-11
+
 [看过穿越时空的少女](http://movie.douban.com/subject/1937946/) - 2024-08-04
 
 [读过自卑与超越](https://book.douban.com/subject/27664092/) - 2024-08-01
