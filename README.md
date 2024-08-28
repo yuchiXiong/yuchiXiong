@@ -29,7 +29,7 @@
 
 #### Recent Digests
 
-[最近在读叔本华的治疗](https://book.douban.com/subject/35404964/) - 2024-08-23
+[读过叔本华的治疗](https://book.douban.com/subject/35404964/) - 2024-08-27
 
 [读过走出原生家庭](https://book.douban.com/subject/35949672/) - 2024-08-23
 
