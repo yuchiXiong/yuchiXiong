@@ -30,5 +30,3 @@
 #### Recent Digests
 
 [读过西方哲学史讲演录](https://book.douban.com/subject/35662629/) - 2024-09-12
-
-[最近在读当尼采哭泣](https://book.douban.com/subject/27018918/) - 2024-09-02
