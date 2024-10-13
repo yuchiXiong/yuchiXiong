@@ -28,5 +28,3 @@
 [2024 年，我终于用上 rem 了……](https://xiongyuchi.com/2024/03/19/2024-nian-wo-zhong-yu-yong-shang-rem-liao/) - 2024-03-19
 
 #### Recent Digests
-
-[读过西方哲学史讲演录](https://book.douban.com/subject/35662629/) - 2024-09-12
