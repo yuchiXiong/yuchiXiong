@@ -28,3 +28,5 @@
 [2024 年，我终于用上 rem 了……](https://xiongyuchi.com/2024/03/19/2024-nian-wo-zhong-yu-yong-shang-rem-liao/) - 2024-03-19
 
 #### Recent Digests
+
+[看过新·福音战士剧场版：终](http://movie.douban.com/subject/10428501/) - 2024-10-13
