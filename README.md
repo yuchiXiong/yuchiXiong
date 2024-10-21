@@ -29,4 +29,6 @@
 
 #### Recent Digests
 
+[玩过黑神话：悟空 Black Myth: Wukong](http://www.douban.com/game/35184766/) - 2024-10-20
+
 [看过新·福音战士剧场版：终](http://movie.douban.com/subject/10428501/) - 2024-10-13
