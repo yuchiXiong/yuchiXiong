@@ -29,6 +29,8 @@
 
 #### Recent Digests
 
+[读过上下五千年--珍藏版](https://book.douban.com/subject/26256572/) - 2024-10-24
+
 [玩过黑神话：悟空 Black Myth: Wukong](http://www.douban.com/game/35184766/) - 2024-10-20
 
 [看过新·福音战士剧场版：终](http://movie.douban.com/subject/10428501/) - 2024-10-13
