@@ -29,6 +29,8 @@
 
 #### Recent Digests
 
+[读过挪威的森林](https://book.douban.com/subject/36344438/) - 2024-11-18
+
 [看过夏日大作战](http://movie.douban.com/subject/3908423/) - 2024-11-12
 
 [读过快乐的死](https://book.douban.com/subject/35920147/) - 2024-11-12
