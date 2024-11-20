@@ -36,5 +36,3 @@
 [读过快乐的死](https://book.douban.com/subject/35920147/) - 2024-11-12
 
 [读过上下五千年--珍藏版](https://book.douban.com/subject/26256572/) - 2024-10-24
-
-[玩过黑神话：悟空 Black Myth: Wukong](http://www.douban.com/game/35184766/) - 2024-10-20
