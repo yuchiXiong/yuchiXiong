@@ -34,5 +34,3 @@
 [看过夏日大作战](http://movie.douban.com/subject/3908423/) - 2024-11-12
 
 [读过快乐的死](https://book.douban.com/subject/35920147/) - 2024-11-12
-
-[读过上下五千年--珍藏版](https://book.douban.com/subject/26256572/) - 2024-10-24
