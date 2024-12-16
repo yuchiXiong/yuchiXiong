@@ -29,6 +29,8 @@
 
 #### Recent Digests
 
+[看过春宵苦短，少女前进吧！](http://movie.douban.com/subject/26935251/) - 2024-12-15
+
 [看过新机动战记高达W](http://movie.douban.com/subject/1766580/) - 2024-12-08
 
 [读过小城与不确定性的墙](https://book.douban.com/subject/37016658/) - 2024-12-08
