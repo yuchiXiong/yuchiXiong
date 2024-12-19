@@ -34,5 +34,3 @@
 [看过新机动战记高达W](http://movie.douban.com/subject/1766580/) - 2024-12-08
 
 [读过小城与不确定性的墙](https://book.douban.com/subject/37016658/) - 2024-12-08
-
-[读过挪威的森林](https://book.douban.com/subject/36344438/) - 2024-11-18
