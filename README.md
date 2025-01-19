@@ -29,6 +29,8 @@
 
 #### Recent Digests
 
+[看过亚刻奥特曼](http://movie.douban.com/subject/36700679/) - 2025-01-18
+
 [读过我还能看到多少次满月升起](https://book.douban.com/subject/36361860/) - 2025-01-07
 
 [看过新机动战记高达W 无尽的华尔兹](http://movie.douban.com/subject/10472794/) - 2024-12-28
