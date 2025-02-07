@@ -32,5 +32,3 @@
 [看过少女乐队的呐喊](http://movie.douban.com/subject/35758408/) - 2025-01-26
 
 [看过亚刻奥特曼](http://movie.douban.com/subject/36700679/) - 2025-01-18
-
-[读过我还能看到多少次满月升起](https://book.douban.com/subject/36361860/) - 2025-01-07
