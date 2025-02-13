@@ -29,6 +29,8 @@
 
 #### Recent Digests
 
+[读过奇鸟行状录](https://book.douban.com/subject/36844378/) - 2025-02-12
+
 [看过少女乐队的呐喊](http://movie.douban.com/subject/35758408/) - 2025-01-26
 
 [看过亚刻奥特曼](http://movie.douban.com/subject/36700679/) - 2025-01-18
