@@ -29,4 +29,6 @@
 
 #### Recent Digests
 
+[读过人间失格](https://book.douban.com/subject/30190063/) - 2025-02-27
+
 [读过奇鸟行状录](https://book.douban.com/subject/36844378/) - 2025-02-12
