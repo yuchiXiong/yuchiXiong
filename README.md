@@ -25,12 +25,8 @@
 
 [五彩斑斓的黑？唠一唠单色黑与四色黑](https://xiongyuchi.com/2024/06/18/wu-cai-ban-lan-de-hei-lao-yi-lao-dan-se-hei-yu-si-se-hei/) - 2024-06-18
 
-[2024 年，我终于用上 rem 了……](https://xiongyuchi.com/2024/03/19/2024-nian-wo-zhong-yu-yong-shang-rem-liao/) - 2024-03-19
-
 #### Recent Digests
 
 [看过一个叫欧维的男人决定去死](http://movie.douban.com/subject/26628357/) - 2025-03-09
 
 [读过人间失格](https://book.douban.com/subject/30190063/) - 2025-02-27
-
-[读过奇鸟行状录](https://book.douban.com/subject/36844378/) - 2025-02-12
