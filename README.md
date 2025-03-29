@@ -29,6 +29,6 @@
 
 [读过一个叫欧维的男人决定去死](https://book.douban.com/subject/26672693/) - 2025-03-19
 
-[看过一个叫欧维的男人决定去死](http://movie.douban.com/subject/26628357/) - 2025-03-09
+[看过一个叫欧维的男人决定去死](https://movie.douban.com/subject/26628357/) - 2025-03-09
 
 [读过人间失格](https://book.douban.com/subject/30190063/) - 2025-02-27
