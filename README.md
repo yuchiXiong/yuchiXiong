@@ -28,5 +28,3 @@
 #### Recent Digests
 
 [看过机动战士高达：跨时之战](https://movie.douban.com/subject/37143373/) - 2025-04-04
-
-[读过一个叫欧维的男人决定去死](https://book.douban.com/subject/26672693/) - 2025-03-19
