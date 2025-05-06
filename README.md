@@ -27,6 +27,6 @@
 
 #### Recent Digests
 
-[看过虫王战队超王者](https://movie.douban.com/subject/36111239/) - 2025-04-19
+[看过幽灵公主](https://movie.douban.com/subject/1297359/) - 2025-05-05
 
-[看过机动战士高达：跨时之战](https://movie.douban.com/subject/37143373/) - 2025-04-04
+[看过虫王战队超王者](https://movie.douban.com/subject/36111239/) - 2025-04-19
