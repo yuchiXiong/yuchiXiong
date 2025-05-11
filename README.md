@@ -27,6 +27,8 @@
 
 #### Recent Digests
 
+[想读软件设计的哲学](https://book.douban.com/subject/37119755/) - 2025-05-10
+
 [看过幽灵公主](https://movie.douban.com/subject/1297359/) - 2025-05-05
 
 [看过虫王战队超王者](https://movie.douban.com/subject/36111239/) - 2025-04-19
