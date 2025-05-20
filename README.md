@@ -27,6 +27,8 @@
 
 #### Recent Digests
 
+[看过英雄联盟：双城之战 第二季](https://movie.douban.com/subject/35669844/) - 2025-05-18
+
 [看过英雄联盟：双城之战 第一季](https://movie.douban.com/subject/34867871/) - 2025-05-11
 
 [看过攻壳机动队](https://movie.douban.com/subject/1291936/) - 2025-05-11
@@ -34,5 +36,3 @@
 [想读软件设计的哲学](https://book.douban.com/subject/37119755/) - 2025-05-10
 
 [看过幽灵公主](https://movie.douban.com/subject/1297359/) - 2025-05-05
-
-[看过虫王战队超王者](https://movie.douban.com/subject/36111239/) - 2025-04-19
