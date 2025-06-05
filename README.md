@@ -36,5 +36,3 @@
 [看过攻壳机动队](https://movie.douban.com/subject/1291936/) - 2025-05-11
 
 [想读软件设计的哲学](https://book.douban.com/subject/37119755/) - 2025-05-10
-
-[看过幽灵公主](https://movie.douban.com/subject/1297359/) - 2025-05-05
