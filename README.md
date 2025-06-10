@@ -34,5 +34,3 @@
 [看过英雄联盟：双城之战 第一季](https://movie.douban.com/subject/34867871/) - 2025-05-11
 
 [看过攻壳机动队](https://movie.douban.com/subject/1291936/) - 2025-05-11
-
-[想读软件设计的哲学](https://book.douban.com/subject/37119755/) - 2025-05-10
