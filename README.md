@@ -23,8 +23,6 @@
 
 #### Recent Blogs
 
-[五彩斑斓的黑？唠一唠单色黑与四色黑](https://xiongyuchi.com/2024/06/18/wu-cai-ban-lan-de-hei-lao-yi-lao-dan-se-hei-yu-si-se-hei/) - 2024-06-18
-
 #### Recent Digests
 
 [看过夏日重现](https://movie.douban.com/subject/35351365/) - 2025-06-02
