@@ -1,4 +1,6 @@
-## Hi there yuchi 👋 
+## Hi! There yuchi 👋 
+
+[![wakatime](https://wakatime.com/badge/user/d7b7c2c9-3bfe-47fc-91a4-129be029d5ea.svg)](https://wakatime.com/@d7b7c2c9-3bfe-47fc-91a4-129be029d5ea)
 
 - 😄 落魄前端在线炒粉
 - 🏫 BiliBili 大学在读
