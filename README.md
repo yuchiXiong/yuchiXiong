@@ -26,5 +26,3 @@
 #### Recent Digests
 
 [看过夏日重现](https://movie.douban.com/subject/35351365/) - 2025-06-02
-
-[看过英雄联盟：双城之战 第二季](https://movie.douban.com/subject/35669844/) - 2025-05-18
