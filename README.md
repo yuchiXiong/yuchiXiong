@@ -26,5 +26,3 @@
 #### Recent Digests
 
 [看过天元突破红莲螺岩](https://movie.douban.com/subject/3584929/) - 2025-06-25
-
-[看过夏日重现](https://movie.douban.com/subject/35351365/) - 2025-06-02
