@@ -26,5 +26,3 @@
 [(译)完美幻象的诅咒](https://xiongyuchi.com/2025/07/20/fan-yi/yi-wan-mei-huan-xiang-de-zu-zhou/) - 2025-07-20
 
 #### Recent Digests
-
-[看过天元突破红莲螺岩](https://movie.douban.com/subject/3584929/) - 2025-06-25
