@@ -26,3 +26,7 @@
 [(译)完美幻象的诅咒](https://xiongyuchi.com/2025/07/20/fan-yi/yi-wan-mei-huan-xiang-de-zu-zhou/) - 2025-07-20
 
 #### Recent Digests
+
+[看过罗小黑战记2](https://movie.douban.com/subject/36448279/) - 2025-08-17
+
+[看过情书](https://movie.douban.com/subject/1292220/) - 2025-08-17
