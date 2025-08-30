@@ -27,6 +27,8 @@
 
 #### Recent Digests
 
+[读过海边的卡夫卡](https://book.douban.com/subject/1059419/) - 2025-08-29
+
 [看过罗小黑战记2](https://movie.douban.com/subject/36448279/) - 2025-08-17
 
 [看过情书](https://movie.douban.com/subject/1292220/) - 2025-08-17
