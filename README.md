@@ -27,6 +27,8 @@
 
 #### Recent Digests
 
+[读过伊豆舞女](https://book.douban.com/subject/36216096/) - 2025-09-01
+
 [读过海边的卡夫卡](https://book.douban.com/subject/1059419/) - 2025-08-29
 
 [看过罗小黑战记2](https://movie.douban.com/subject/36448279/) - 2025-08-17
