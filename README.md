@@ -27,6 +27,16 @@
 
 #### Recent Digests
 
+[在看鬼灭之刃 柱训练篇](https://movie.douban.com/subject/36449810/) - 2025-09-04
+
+[看过鬼灭之刃 锻刀村篇](https://movie.douban.com/subject/35769236/) - 2025-09-04
+
+[看过鬼灭之刃 游郭篇](https://movie.douban.com/subject/34813210/) - 2025-09-04
+
+[看过鬼灭之刃 无限列车篇](https://movie.douban.com/subject/35620761/) - 2025-09-04
+
+[看过鬼灭之刃](https://movie.douban.com/subject/30210221/) - 2025-09-04
+
 [读过伊豆舞女](https://book.douban.com/subject/36216096/) - 2025-09-01
 
 [读过海边的卡夫卡](https://book.douban.com/subject/1059419/) - 2025-08-29
