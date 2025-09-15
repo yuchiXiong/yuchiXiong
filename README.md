@@ -27,6 +27,8 @@
 
 #### Recent Digests
 
+[看过飞跃巅峰](https://movie.douban.com/subject/1300798/) - 2025-09-14
+
 [看过鬼灭之刃 柱训练篇](https://movie.douban.com/subject/36449810/) - 2025-09-13
 
 [看过鬼灭之刃 锻刀村篇](https://movie.douban.com/subject/35769236/) - 2025-09-04
