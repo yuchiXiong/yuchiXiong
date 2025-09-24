@@ -27,18 +27,22 @@
 
 #### Recent Digests
 
-[看过飞跃巅峰](https://movie.douban.com/subject/1300798/) - 2025-09-14
+[想看走走停停](https://movie.douban.com/subject/35956190/) - 2025-09-23
 
-[看过鬼灭之刃 柱训练篇](https://movie.douban.com/subject/36449810/) - 2025-09-13
+[想看出走的决心](https://movie.douban.com/subject/36587974/) - 2025-09-23
 
-[看过鬼灭之刃 锻刀村篇](https://movie.douban.com/subject/35769236/) - 2025-09-04
+[想看姥姥的外孙](https://movie.douban.com/subject/36328210/) - 2025-09-23
 
-[看过鬼灭之刃 游郭篇](https://movie.douban.com/subject/34813210/) - 2025-09-04
+[想看破·地狱](https://movie.douban.com/subject/36712987/) - 2025-09-23
 
-[看过鬼灭之刃 无限列车篇](https://movie.douban.com/subject/35620761/) - 2025-09-04
+[想看我们一起摇太阳](https://movie.douban.com/subject/36149032/) - 2025-09-23
 
-[看过鬼灭之刃](https://movie.douban.com/subject/30210221/) - 2025-09-04
+[想看沙丘2](https://movie.douban.com/subject/35575567/) - 2025-09-23
 
-[读过伊豆舞女](https://book.douban.com/subject/36216096/) - 2025-09-01
+[想看长安三万里](https://movie.douban.com/subject/36035676/) - 2025-09-23
 
-[读过海边的卡夫卡](https://book.douban.com/subject/1059419/) - 2025-08-29
+[想看唐顿庄园2](https://movie.douban.com/subject/35008440/) - 2025-09-23
+
+[想看误杀瞒天记](https://movie.douban.com/subject/26419637/) - 2025-09-23
+
+[想看穿靴子的猫2](https://movie.douban.com/subject/25868125/) - 2025-09-23
