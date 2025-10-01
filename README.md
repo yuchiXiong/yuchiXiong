@@ -27,6 +27,8 @@
 
 #### Recent Digests
 
+[看过空降未婚妻](https://www.douban.com/location/drama/36292667/) - 2025-09-30
+
 [想看走走停停](https://movie.douban.com/subject/35956190/) - 2025-09-23
 
 [想看出走的决心](https://movie.douban.com/subject/36587974/) - 2025-09-23
@@ -44,5 +46,3 @@
 [想看唐顿庄园2](https://movie.douban.com/subject/35008440/) - 2025-09-23
 
 [想看误杀瞒天记](https://movie.douban.com/subject/26419637/) - 2025-09-23
-
-[想看穿靴子的猫2](https://movie.douban.com/subject/25868125/) - 2025-09-23
