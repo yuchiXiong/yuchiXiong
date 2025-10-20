@@ -27,6 +27,10 @@
 
 #### Recent Digests
 
+[读过一个陌生女人的来信](https://book.douban.com/subject/2154960/) - 2025-10-19
+
+[读过计算机：一部历史](https://book.douban.com/subject/25802176/) - 2025-10-19
+
 [看过空降未婚妻](https://www.douban.com/location/drama/36292667/) - 2025-09-30
 
 [想看走走停停](https://movie.douban.com/subject/35956190/) - 2025-09-23
@@ -42,7 +46,3 @@
 [想看沙丘2](https://movie.douban.com/subject/35575567/) - 2025-09-23
 
 [想看长安三万里](https://movie.douban.com/subject/36035676/) - 2025-09-23
-
-[想看唐顿庄园2](https://movie.douban.com/subject/35008440/) - 2025-09-23
-
-[想看误杀瞒天记](https://movie.douban.com/subject/26419637/) - 2025-09-23
