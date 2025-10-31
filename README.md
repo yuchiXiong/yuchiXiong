@@ -30,5 +30,3 @@
 [读过一个陌生女人的来信](https://book.douban.com/subject/2154960/) - 2025-10-19
 
 [读过计算机：一部历史](https://book.douban.com/subject/25802176/) - 2025-10-19
-
-[看过空降未婚妻](https://www.douban.com/location/drama/36292667/) - 2025-09-30
