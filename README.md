@@ -26,7 +26,3 @@
 [(译)完美幻象的诅咒](https://xiongyuchi.com/2025/07/20/fan-yi/yi-wan-mei-huan-xiang-de-zu-zhou/) - 2025-07-20
 
 #### Recent Digests
-
-[读过一个陌生女人的来信](https://book.douban.com/subject/2154960/) - 2025-10-19
-
-[读过计算机：一部历史](https://book.douban.com/subject/25802176/) - 2025-10-19
