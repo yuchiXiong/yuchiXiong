@@ -26,3 +26,9 @@
 [(译)完美幻象的诅咒](https://xiongyuchi.com/2025/07/20/fan-yi/yi-wan-mei-huan-xiang-de-zu-zhou/) - 2025-07-20
 
 #### Recent Digests
+
+[读过地铁2033](https://book.douban.com/subject/35498430/) - 2025-11-27
+
+[看过出马](https://www.douban.com/location/drama/36945202/) - 2025-11-27
+
+[看过鬼灭之刃：无限城篇 第一章 猗窝座再袭](https://movie.douban.com/subject/36524559/) - 2025-11-27
