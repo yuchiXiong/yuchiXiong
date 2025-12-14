@@ -27,6 +27,8 @@
 
 #### Recent Digests
 
+[看过疯狂动物城](https://movie.douban.com/subject/25662329/) - 2025-12-13
+
 [看过小魔女学园](https://movie.douban.com/subject/20266597/) - 2025-12-08
 
 [读过地铁2033](https://book.douban.com/subject/35498430/) - 2025-11-27
