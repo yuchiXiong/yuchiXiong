@@ -27,10 +27,12 @@
 
 #### Recent Digests
 
+[读过袭击面包店](https://book.douban.com/subject/34940776/) - 2026-01-07
+
+[读过假性亲密关系](https://book.douban.com/subject/27146748/) - 2026-01-07
+
 [看过长安的荔枝](https://movie.douban.com/subject/36185502/) - 2026-01-03
 
 [读过长安的荔枝](https://book.douban.com/subject/36104107/) - 2025-12-31
 
 [看过疯狂动物城](https://movie.douban.com/subject/25662329/) - 2025-12-13
-
-[看过小魔女学园](https://movie.douban.com/subject/20266597/) - 2025-12-08
