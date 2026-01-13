@@ -34,5 +34,3 @@
 [看过长安的荔枝](https://movie.douban.com/subject/36185502/) - 2026-01-03
 
 [读过长安的荔枝](https://book.douban.com/subject/36104107/) - 2025-12-31
-
-[看过疯狂动物城](https://movie.douban.com/subject/25662329/) - 2025-12-13
