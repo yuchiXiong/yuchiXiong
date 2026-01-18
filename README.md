@@ -27,6 +27,8 @@
 
 #### Recent Digests
 
+[看过机器人之梦](https://movie.douban.com/subject/35426925/) - 2026-01-17
+
 [读过袭击面包店](https://book.douban.com/subject/34940776/) - 2026-01-07
 
 [读过假性亲密关系](https://book.douban.com/subject/27146748/) - 2026-01-07
