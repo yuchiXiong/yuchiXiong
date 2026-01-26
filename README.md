@@ -27,6 +27,10 @@
 
 #### Recent Digests
 
+[读过诊疗椅上的谎言](https://book.douban.com/subject/27018914/) - 2026-01-25
+
+[在看胜者即是正义](https://movie.douban.com/subject/10491666/) - 2026-01-25
+
 [看过疯狂动物城2](https://movie.douban.com/subject/26817136/) - 2026-01-18
 
 [看过机器人之梦](https://movie.douban.com/subject/35426925/) - 2026-01-17
