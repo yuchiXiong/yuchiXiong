@@ -23,6 +23,8 @@
 
 #### Recent Blogs
 
+[上帝搬石头：关于三值逻辑的一些胡思……](https://xiongyuchi.com/2026/02/01/shang-di-ban-shi-tou-guan-yu-san-zhi-luo-ji-de-yi-xie-hu-si/) - 2026-02-01
+
 [(译)完美幻象的诅咒](https://xiongyuchi.com/2025/07/20/fan-yi/yi-wan-mei-huan-xiang-de-zu-zhou/) - 2025-07-20
 
 #### Recent Digests
@@ -40,5 +42,3 @@
 [读过假性亲密关系](https://book.douban.com/subject/27146748/) - 2026-01-07
 
 [看过长安的荔枝](https://movie.douban.com/subject/36185502/) - 2026-01-03
-
-[读过长安的荔枝](https://book.douban.com/subject/36104107/) - 2025-12-31
