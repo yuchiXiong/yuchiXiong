@@ -9,7 +9,7 @@ const temp = fs.readFileSync('./README_TEMP.md', 'utf-8');
 
 /** 拉取我的博客列表 */
 const blogSection = async () => {
-  const BLOG_RSS = "https://xiongyuchi.top/atom.xml";
+  const BLOG_RSS = "https://xiongyuchi.com/atom.xml";
   const parser = new Parser();
 
   const response = await axios({
