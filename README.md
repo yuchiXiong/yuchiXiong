@@ -40,5 +40,3 @@
 [读过袭击面包店](https://book.douban.com/subject/34940776/) - 2026-01-07
 
 [读过假性亲密关系](https://book.douban.com/subject/27146748/) - 2026-01-07
-
-[看过长安的荔枝](https://movie.douban.com/subject/36185502/) - 2026-01-03
