@@ -29,6 +29,8 @@
 
 #### Recent Digests
 
+[看过镖人：风起大漠](https://movie.douban.com/subject/36474027/) - 2026-02-23
+
 [读过诊疗椅上的谎言](https://book.douban.com/subject/27018914/) - 2026-01-25
 
 [在看胜者即是正义](https://movie.douban.com/subject/10491666/) - 2026-01-25
