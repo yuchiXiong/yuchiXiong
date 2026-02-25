@@ -23,14 +23,10 @@
 
 #### Recent Blogs
 
-[上帝搬石头：关于三值逻辑的一些胡思……](https://xiongyuchi.com/2026/02/01/shang-di-ban-shi-tou-guan-yu-san-zhi-luo-ji-de-yi-xie-hu-si/) - 2026-02-01
+[上帝搬石头：关于三值逻辑的一些胡思……](https://xiongyuchi.com/2026/02/24/shang-di-ban-shi-tou-guan-yu-san-zhi-luo-ji-de-yi-xie-hu-si/) - 2026-02-24
 
 [(译)完美幻象的诅咒](https://xiongyuchi.com/2025/07/20/fan-yi/yi-wan-mei-huan-xiang-de-zu-zhou/) - 2025-07-20
 
 #### Recent Digests
 
 [看过镖人：风起大漠](https://movie.douban.com/subject/36474027/) - 2026-02-23
-
-[读过诊疗椅上的谎言](https://book.douban.com/subject/27018914/) - 2026-01-25
-
-[在看胜者即是正义](https://movie.douban.com/subject/10491666/) - 2026-01-25
