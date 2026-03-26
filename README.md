@@ -28,5 +28,3 @@
 [(译)完美幻象的诅咒](https://xiongyuchi.com/2025/07/20/fan-yi/yi-wan-mei-huan-xiang-de-zu-zhou/) - 2025-07-20
 
 #### Recent Digests
-
-[看过镖人：风起大漠](https://movie.douban.com/subject/36474027/) - 2026-02-23
