@@ -28,3 +28,9 @@
 [(译)完美幻象的诅咒](https://xiongyuchi.com/2025/07/20/fan-yi/yi-wan-mei-huan-xiang-de-zu-zhou/) - 2025-07-20
 
 #### Recent Digests
+
+[读过没有人给他写信的上校](https://book.douban.com/subject/30177172/) - 2026-03-30
+
+[读过明朝那些事儿](https://book.douban.com/subject/35796182/) - 2026-03-30
+
+[看过地：关于地球的运动](https://movie.douban.com/subject/35943356/) - 2026-03-30
