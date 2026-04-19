@@ -29,6 +29,8 @@
 
 #### Recent Digests
 
+[读过蛤蟆先生去看心理医生](https://book.douban.com/subject/35143790/) - 2026-04-18
+
 [读过没有人给他写信的上校](https://book.douban.com/subject/30177172/) - 2026-03-30
 
 [读过明朝那些事儿](https://book.douban.com/subject/35796182/) - 2026-03-30
