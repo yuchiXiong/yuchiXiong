@@ -29,6 +29,10 @@
 
 #### Recent Digests
 
+[读过克拉拉与太阳](https://book.douban.com/subject/35315153/) - 2026-05-06
+
+[读过太白金星有点烦](https://book.douban.com/subject/36328704/) - 2026-05-06
+
 [读过1Q84](https://book.douban.com/subject/30267583/) - 2026-04-26
 
 [读过蛤蟆先生去看心理医生](https://book.douban.com/subject/35143790/) - 2026-04-18
