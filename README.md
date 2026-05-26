@@ -29,6 +29,8 @@
 
 #### Recent Digests
 
+[读过焦虑的人](https://book.douban.com/subject/35539713/) - 2026-05-25
+
 [读过克拉拉与太阳](https://book.douban.com/subject/35315153/) - 2026-05-06
 
 [读过太白金星有点烦](https://book.douban.com/subject/36328704/) - 2026-05-06
