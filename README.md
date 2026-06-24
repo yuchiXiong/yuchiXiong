@@ -29,6 +29,8 @@
 
 #### Recent Digests
 
+[读过以日为鉴](https://book.douban.com/subject/37467536/) - 2026-06-23
+
 [读过切尔诺贝利的午夜](https://book.douban.com/subject/35325887/) - 2026-06-18
 
 [看过宋美龄耳环丢了](https://www.douban.com/location/drama/36052640/) - 2026-06-15
