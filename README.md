@@ -38,5 +38,3 @@
 [看过给阿嬷的情书](https://movie.douban.com/subject/37116446/) - 2026-06-15
 
 [看过走走停停](https://movie.douban.com/subject/35956190/) - 2026-06-05
-
-[读过焦虑的人](https://book.douban.com/subject/35539713/) - 2026-05-25
