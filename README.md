@@ -29,6 +29,8 @@
 
 #### Recent Digests
 
+[看过假面骑士加布](https://movie.douban.com/subject/36888450/) - 2026-07-11
+
 [读过熬通宵也要读完的大清史](https://book.douban.com/subject/30377282/) - 2026-07-10
 
 [读过以日为鉴](https://book.douban.com/subject/37467536/) - 2026-06-23
