@@ -25,9 +25,9 @@
 
 [上帝搬石头：关于三值逻辑的一些胡思……](https://xiongyuchi.com/2026/02/24/shang-di-ban-shi-tou-guan-yu-san-zhi-luo-ji-de-yi-xie-hu-si/) - 2026-02-24
 
-[(译)完美幻象的诅咒](https://xiongyuchi.com/2025/07/20/fan-yi/yi-wan-mei-huan-xiang-de-zu-zhou/) - 2025-07-20
-
 #### Recent Digests
+
+[读过正说清朝十二帝](https://book.douban.com/subject/1061239/) - 2026-07-15
 
 [看过假面骑士加布](https://movie.douban.com/subject/36888450/) - 2026-07-11
 
@@ -36,7 +36,3 @@
 [读过以日为鉴](https://book.douban.com/subject/37467536/) - 2026-06-23
 
 [读过切尔诺贝利的午夜](https://book.douban.com/subject/35325887/) - 2026-06-18
-
-[看过宋美龄耳环丢了](https://www.douban.com/location/drama/36052640/) - 2026-06-15
-
-[看过给阿嬷的情书](https://movie.douban.com/subject/37116446/) - 2026-06-15
