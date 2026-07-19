@@ -34,5 +34,3 @@
 [读过熬通宵也要读完的大清史](https://book.douban.com/subject/30377282/) - 2026-07-10
 
 [读过以日为鉴](https://book.douban.com/subject/37467536/) - 2026-06-23
-
-[读过切尔诺贝利的午夜](https://book.douban.com/subject/35325887/) - 2026-06-18
