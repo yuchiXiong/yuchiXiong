@@ -28,5 +28,3 @@
 #### Recent Digests
 
 [读过德米安](https://book.douban.com/subject/3578470/) - 2026-08-09
-
-[读过正说清朝十二帝](https://book.douban.com/subject/1061239/) - 2026-07-15
