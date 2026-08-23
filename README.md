@@ -27,4 +27,6 @@
 
 #### Recent Digests
 
+[读过茶花女](https://book.douban.com/subject/5063806/) - 2026-08-22
+
 [读过德米安](https://book.douban.com/subject/3578470/) - 2026-08-09
