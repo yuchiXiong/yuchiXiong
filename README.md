@@ -28,5 +28,3 @@
 #### Recent Digests
 
 [看过奥德赛](https://movie.douban.com/subject/36808876/) - 2026-09-01
-
-[读过茶花女](https://book.douban.com/subject/5063806/) - 2026-08-22
